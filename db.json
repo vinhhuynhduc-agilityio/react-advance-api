@@ -5,7 +5,7 @@
       "fullName": "Joe Bloggs",
       "earnings": "$14600",
       "email": "john@example.com",
-      "avatarUrl": "https://i.pravatar.cc/66?img=1",
+      "avatarUrl": "/public/assets/Joe Bloggs.jpg",
       "registered": "May 21, 2020 17:02:06",
       "lastUpdated": "Nov 11, 2024 14:34:21"
     },
